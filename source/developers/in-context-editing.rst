@@ -56,7 +56,7 @@ Tag Attributes
 ||               ||                                   || fields in your content model.            |
 +----------------+------------------------------------+-------------------------------------------+
 || path          || No                                || the path of the item. This is typically  |
-||               || (unless iceGroup is not supplied) || just mode.storeUrl.                      |
+||               || (unless iceGroup is not supplied) || just contentModel.storeUrl.                      |
 ||               ||                                   ||                                          |
 ||               ||                                   || If path is not supplied the system       |
 ||               ||                                   || will assume the outermost object e.g.    |
